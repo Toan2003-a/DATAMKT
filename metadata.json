@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Reference Dataset Builder",
+  "description": "Convert public TikTok creator profiles into structured AI Video Editing Reference Datasets, Style DNA, and Claude Editing Knowledge Bases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
